@@ -11,4 +11,4 @@ Forecasting property index heatmaps with spatio-temporal CNNs and inception-conv
 
 ![alt text](https://imgur.com/wMheHKf.png)
 
-Link to [paper](https://github.com/cspades/prop-cast/blob/master/ECE%20C247%20-%20Inception-Convolutional%20LSTM%20and%20Spatio-Temporal%20CNN.pdf). 
+Link to [paper](https://github.com/adzafirov/prop-cast/blob/master/ECE%20C247%20-%20Inception-Convolutional%20LSTM%20and%20Spatio-Temporal%20CNN.pdf). 
